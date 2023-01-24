@@ -30,8 +30,11 @@ i've also added a simple audio visualizer to the stream pages, code was taken fr
 
 <div align="left">
 
-| [russian](https://spartvan.github.io/m3u-radio-music-playlists/stuff/russian.html) | [russian1](https://spartvan.github.io/m3u-radio-music-playlists/stuff/russian1.html) | [russian2](https://spartvan.github.io/m3u-radio-music-playlists/stuff/russian2.html) | [90s](https://spartvan.github.io/m3u-radio-music-playlists/stuff/90s.html) | [eurodance](https://spartvan.github.io/m3u-radio-music-playlists/stuff/eurodance.html) |
-|---|---|---|---|---|---|---|---|
+| [russian](https://spartvan.github.io/m3u-radio-music-playlists/stuff/russian.html) |
+|---|
+| [russian1](https://spartvan.github.io/m3u-radio-music-playlists/stuff/russian1.html) | 
+| [russian2](https://spartvan.github.io/m3u-radio-music-playlists/stuff/russian2.html) | 
+| [90s](https://spartvan.github.io/m3u-radio-music-playlists/stuff/90s.html) ||
 
 <br>
 
