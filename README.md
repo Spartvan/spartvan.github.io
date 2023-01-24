@@ -30,7 +30,7 @@ i've also added a simple audio visualizer to the stream pages, code was taken fr
 
 <div align="left">
 
-| [60s](https://junguler.github.io/m3u-radio-music-playlists/stuff/60s.html) | [70s](https://junguler.github.io/m3u-radio-music-playlists/stuff/70s.html) | [80s](https://junguler.github.io/m3u-radio-music-playlists/stuff/80s.html) | [90s](https://junguler.github.io/m3u-radio-music-playlists/stuff/90s.html) | [acid_jazz](https://junguler.github.io/m3u-radio-music-playlists/stuff/acid_jazz.html) | [african](https://junguler.github.io/m3u-radio-music-playlists/stuff/african.html) | [alternative](https://junguler.github.io/m3u-radio-music-playlists/stuff/alternative.html) | [ambient](https://junguler.github.io/m3u-radio-music-playlists/stuff/ambient.html) |
+| [80s](https://junguler.github.io/m3u-radio-music-playlists/stuff/80s.html) | [90s](https://junguler.github.io/m3u-radio-music-playlists/stuff/90s.html) | [acid_jazz](https://junguler.github.io/m3u-radio-music-playlists/stuff/acid_jazz.html) | [african](https://junguler.github.io/m3u-radio-music-playlists/stuff/african.html) | [alternative](https://junguler.github.io/m3u-radio-music-playlists/stuff/alternative.html) | [ambient](https://junguler.github.io/m3u-radio-music-playlists/stuff/ambient.html) |
 |---|---|---|---|---|---|---|---|
 | [americana](https://junguler.github.io/m3u-radio-music-playlists/stuff/americana.html) | [anime](https://junguler.github.io/m3u-radio-music-playlists/stuff/anime.html) | [arabic](https://junguler.github.io/m3u-radio-music-playlists/stuff/arabic.html) | [asian](https://junguler.github.io/m3u-radio-music-playlists/stuff/asian.html) | [big band](https://junguler.github.io/m3u-radio-music-playlists/stuff/big_band.html) | [bluegrass](https://junguler.github.io/m3u-radio-music-playlists/stuff/bluegrass.html) | [blues](https://junguler.github.io/m3u-radio-music-playlists/stuff/blues.html) | [breakbeat](https://junguler.github.io/m3u-radio-music-playlists/stuff/breakbeat.html) |
 | [chillout](https://junguler.github.io/m3u-radio-music-playlists/stuff/chillout.html) | [christian](https://junguler.github.io/m3u-radio-music-playlists/stuff/christian.html) | [classical](https://junguler.github.io/m3u-radio-music-playlists/stuff/classical.html) | [club](https://junguler.github.io/m3u-radio-music-playlists/stuff/club.html) | [college](https://junguler.github.io/m3u-radio-music-playlists/stuff/college.html) | [comedy](https://junguler.github.io/m3u-radio-music-playlists/stuff/comedy.html) | [country](https://junguler.github.io/m3u-radio-music-playlists/stuff/country.html) | [dance](https://junguler.github.io/m3u-radio-music-playlists/stuff/dance.html) |
@@ -40,7 +40,7 @@ i've also added a simple audio visualizer to the stream pages, code was taken fr
 | [instrumental](https://junguler.github.io/m3u-radio-music-playlists/stuff/instrumental.html) | [italian](https://junguler.github.io/m3u-radio-music-playlists/stuff/italian.html) | [jazz](https://junguler.github.io/m3u-radio-music-playlists/stuff/jazz.html) | [jpop](https://junguler.github.io/m3u-radio-music-playlists/stuff/jpop.html) | [jungle](https://junguler.github.io/m3u-radio-music-playlists/stuff/jungle.html) | [latin](https://junguler.github.io/m3u-radio-music-playlists/stuff/latin.html) | [lounge](https://junguler.github.io/m3u-radio-music-playlists/stuff/lounge.html) | [metal](https://junguler.github.io/m3u-radio-music-playlists/stuff/metal.html) |
 | [mixed](https://junguler.github.io/m3u-radio-music-playlists/stuff/mixed.html) | [musical](https://junguler.github.io/m3u-radio-music-playlists/stuff/musical.html) | [oldies](https://junguler.github.io/m3u-radio-music-playlists/stuff/oldies.html) | [opera](https://junguler.github.io/m3u-radio-music-playlists/stuff/opera.html) | [polish](https://junguler.github.io/m3u-radio-music-playlists/stuff/polish.html) | [polka](https://junguler.github.io/m3u-radio-music-playlists/stuff/polka.html) | [pop](https://junguler.github.io/m3u-radio-music-playlists/stuff/pop.html) | [portugal](https://junguler.github.io/m3u-radio-music-playlists/stuff/portugal.html) |
 | [progressive](https://junguler.github.io/m3u-radio-music-playlists/stuff/progressive.html) | [punk](https://junguler.github.io/m3u-radio-music-playlists/stuff/punk.html) | [quran](https://junguler.github.io/m3u-radio-music-playlists/stuff/quran.html) | [rap](https://junguler.github.io/m3u-radio-music-playlists/stuff/rap.html) | [reggae](https://junguler.github.io/m3u-radio-music-playlists/stuff/reggae.html) | [retro](https://junguler.github.io/m3u-radio-music-playlists/stuff/retro.html) | [rnb](https://junguler.github.io/m3u-radio-music-playlists/stuff/rnb.html) | [rock](https://junguler.github.io/m3u-radio-music-playlists/stuff/rock.html) |
-| [romanian](https://junguler.github.io/m3u-radio-music-playlists/stuff/romanian.html) | [russian](https://junguler.github.io/m3u-radio-music-playlists/stuff/russian.html) | [salsa](https://junguler.github.io/m3u-radio-music-playlists/stuff/salsa.html) | [schlager](https://junguler.github.io/m3u-radio-music-playlists/stuff/schlager.html) | [ska](https://junguler.github.io/m3u-radio-music-playlists/stuff/ska.html) | [smooth jazz](https://junguler.github.io/m3u-radio-music-playlists/stuff/smooth_jazz.html) | [soul](https://junguler.github.io/m3u-radio-music-playlists/stuff/soul.html) | [soundtrack](https://junguler.github.io/m3u-radio-music-playlists/stuff/soundtrack.html) | [spain](https://junguler.github.io/m3u-radio-music-playlists/stuff/spain.html) | [spiritual](https://junguler.github.io/m3u-radio-music-playlists/stuff/spiritual.html) | [sport](https://junguler.github.io/m3u-radio-music-playlists/stuff/sport.html) | [swing](https://junguler.github.io/m3u-radio-music-playlists/stuff/swing.html) | [symphonic](https://junguler.github.io/m3u-radio-music-playlists/stuff/symphonic.html) | [talk](https://junguler.github.io/m3u-radio-music-playlists/stuff/talk.html) | [techno](https://junguler.github.io/m3u-radio-music-playlists/stuff/techno.html) | [top 40](https://junguler.github.io/m3u-radio-music-playlists/stuff/top_40.html) |
+| [romanian](https://junguler.github.io/m3u-radio-music-playlists/stuff/romanian.html) | [russian](https://spartvan.github.io/m3u-radio-music-playlists/stuff/russian.html) | [salsa](https://junguler.github.io/m3u-radio-music-playlists/stuff/salsa.html) | [schlager](https://junguler.github.io/m3u-radio-music-playlists/stuff/schlager.html) | [ska](https://junguler.github.io/m3u-radio-music-playlists/stuff/ska.html) | [smooth jazz](https://junguler.github.io/m3u-radio-music-playlists/stuff/smooth_jazz.html) | [soul](https://junguler.github.io/m3u-radio-music-playlists/stuff/soul.html) | [soundtrack](https://junguler.github.io/m3u-radio-music-playlists/stuff/soundtrack.html) | [spain](https://junguler.github.io/m3u-radio-music-playlists/stuff/spain.html) | [spiritual](https://junguler.github.io/m3u-radio-music-playlists/stuff/spiritual.html) | [sport](https://junguler.github.io/m3u-radio-music-playlists/stuff/sport.html) | [swing](https://junguler.github.io/m3u-radio-music-playlists/stuff/swing.html) | [symphonic](https://junguler.github.io/m3u-radio-music-playlists/stuff/symphonic.html) | [talk](https://junguler.github.io/m3u-radio-music-playlists/stuff/talk.html) | [techno](https://junguler.github.io/m3u-radio-music-playlists/stuff/techno.html) | [top 40](https://junguler.github.io/m3u-radio-music-playlists/stuff/top_40.html) |
 | [trance](https://junguler.github.io/m3u-radio-music-playlists/stuff/trance.html) | [turk](https://junguler.github.io/m3u-radio-music-playlists/stuff/turk.html) | [urban](https://junguler.github.io/m3u-radio-music-playlists/stuff/urban.html) | [usa](https://junguler.github.io/m3u-radio-music-playlists/stuff/usa.html) | [various](https://junguler.github.io/m3u-radio-music-playlists/stuff/various.html) | [wave](https://junguler.github.io/m3u-radio-music-playlists/stuff/wave.html) | [world](https://junguler.github.io/m3u-radio-music-playlists/stuff/world.html) | |
 
 <br>
@@ -60,17 +60,17 @@ if you are on a chromium based web browser (chrome, vivaldi, opera, edge etc ...
 <br>
 
 ### Shortcuts
- * [How to listen](https://github.com/junguler/m3u-radio-music-playlists#how-to-listen-to-these)
- * [How to download a stream](https://github.com/junguler/m3u-radio-music-playlists#how-to-download-a-live-stream-to-my-computer)
- * [How to save songs indivudally](https://github.com/junguler/m3u-radio-music-playlists#how-to-save-songs-indivudally-by-title-from-a-live-stream)
- * [Audio visualization](https://github.com/junguler/m3u-radio-music-playlists#mpv-only-shows-a-black-window-when-listening-to-music-how-to-make-it-pretty)
- * [Normilizing audio](https://github.com/junguler/m3u-radio-music-playlists#normilize-audio)
- * [Customize keybinds](https://github.com/junguler/m3u-radio-music-playlists#i-really-like-mpv-how-do-i-customize-keybinds)
- * [Easier m3u consumption](https://github.com/junguler/m3u-radio-music-playlists#isnt-there-an-easier-way-to-use-and-control-these-using-mpv)
- * [How to download](https://github.com/junguler/m3u-radio-music-playlists#how-to-download-all-of-the-files)
- * [Source](https://github.com/junguler/m3u-radio-music-playlists#where-did-you-find-these)
- * [Git stats](https://github.com/junguler/m3u-radio-music-playlists#git-stats)
- * [How i push updates](https://github.com/junguler/m3u-radio-music-playlists#how-do-i-push-updates)
+ * [How to listen](https://github.com/spartvan/m3u-radio-music-playlists#how-to-listen-to-these)
+ * [How to download a stream](https://github.com/spartvan/m3u-radio-music-playlists#how-to-download-a-live-stream-to-my-computer)
+ * [How to save songs indivudally](https://github.com/spartvan/m3u-radio-music-playlists#how-to-save-songs-indivudally-by-title-from-a-live-stream)
+ * [Audio visualization](https://github.com/spartvan/m3u-radio-music-playlists#mpv-only-shows-a-black-window-when-listening-to-music-how-to-make-it-pretty)
+ * [Normilizing audio](https://github.com/spartvan/m3u-radio-music-playlists#normilize-audio)
+ * [Customize keybinds](https://github.com/spartvan/m3u-radio-music-playlists#i-really-like-mpv-how-do-i-customize-keybinds)
+ * [Easier m3u consumption](https://github.com/spartvan/m3u-radio-music-playlists#isnt-there-an-easier-way-to-use-and-control-these-using-mpv)
+ * [How to download](https://github.com/spartvan/m3u-radio-music-playlists#how-to-download-all-of-the-files)
+ * [Source](https://github.com/spartvan/m3u-radio-music-playlists#where-did-you-find-these)
+ * [Git stats](https://github.com/spartvan/m3u-radio-music-playlists#git-stats)
+ * [How i push updates](https://github.com/spartvan/m3u-radio-music-playlists#how-do-i-push-updates)
 
 <br>
 
@@ -92,7 +92,7 @@ every time i push an update these 4 files will also get updated and the randomiz
 ### How to listen to these?
 in the terminal, do this:
 ```
-mpv https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/trance.m3u
+mpv https://raw.githubusercontent.com/spartvan/m3u-radio-music-playlists/main/trance.m3u
 ```
 or add/change `m3u` file association in your os to mpv and double click on any of `.m3u` files in your file manager
 
@@ -199,11 +199,11 @@ yes there is, use the [IPTV script](https://github.com/gthreepw00d/mpv-iptv) whi
 <br>
 
 ### How to download all of the files?
-use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlists/archive/refs/heads/main.zip) 
+use the [auto-generated zip](https://github.com/spartvan/m3u-radio-music-playlists/archive/refs/heads/main.zip) 
 
 you can also run a git clone on this repo
 ```
-git clone https://github.com/junguler/m3u-radio-music-playlists.git
+git clone https://github.com/spartvan/m3u-radio-music-playlists.git
 ```
 for further updates cd into the folder and do ``git pull``
 
