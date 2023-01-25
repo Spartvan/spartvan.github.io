@@ -1,5 +1,4 @@
 #EXTM3U
-
-
-#EXTINF:-1,radio dacha
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
 http://listen2.vdfm.ru:8000/dacha
