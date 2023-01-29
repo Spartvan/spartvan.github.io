@@ -16,7 +16,7 @@ return url.href;
 }
 function isPlaylist(link) {
 const linkHref = stripUrlParameters(link);
-return linkHref.endsWith(".m3u") || linkHref.endsWith(".m3u8");
+return linkHref.endsWith(".m3u8") || linkHref.endsWith(".m3u");
 }
 function isBlob(link) {
 return new URL(link, window.location).protocol == 'blob';
