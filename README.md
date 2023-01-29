@@ -8,11 +8,11 @@ i've also added a simple audio visualizer to the stream pages, code was taken fr
 
 <div align="left">
 
-| [russian](https://spartvan.github.io/m3u-radio-music-playlists/stuff/russian.html) |
+| [russian](https://spartvan.github.io/radio-music-playlist/stuff/russian.html) |
 |---|
-| [russian1](https://spartvan.github.io/m3u-radio-music-playlists/stuff/russian1.html) | 
-| [russian2](https://spartvan.github.io/m3u-radio-music-playlists/stuff/russian2.html) | 
-| [90s](https://spartvan.github.io/m3u-radio-music-playlists/stuff/90s.html) ||
+| [russian1](https://spartvan.github.io/radio-music-playlist/stuff/russian1.html) | 
+| [russian2](https://spartvan.github.io/radio-music-playlist/stuff/russian2.html) | 
+| [90s](https://spartvan.github.io/radio-music-playlist/stuff/90s.html) ||
 
 <br>
 
@@ -58,11 +58,11 @@ yes there is, use the [IPTV script](https://github.com/gthreepw00d/mpv-iptv) whi
 <br>
 
 ### How to download all of the files?
-use the [auto-generated zip](https://github.com/spartvan/m3u-radio-music-playlists/archive/refs/heads/main.zip) 
+use the [auto-generated zip](https://github.com/spartvan/radio-music-playlist/archive/refs/heads/main.zip) 
 
 you can also run a git clone on this repo
 ```
-git clone https://github.com/spartvan/m3u-radio-music-playlists.git
+git clone https://github.com/spartvan/radio-music-playlist.git
 ```
 for further updates cd into the folder and do ``git pull``
 
@@ -142,14 +142,14 @@ cat ~/Music/bare_m3u/---everything-lite.m3u | sort | awk 'length>10' > ~/Music/b
   
 6rd step: move everything to our repos git directory, all the git stuff happens here, the move command overwrites everything that was there before
 ```
-mv ~/Music/bare_m3u/*.m3u ~/Music/m3u-radio-music-playlists
+mv ~/Music/bare_m3u/*.m3u ~/Music/radio-music-playlist
 ```
 
 last step: add, commit and push to your repo
 ```
-git -C ~/Music/m3u-radio-music-playlists add .
-git -C ~/Music/m3u-radio-music-playlists commit -m "updating"
-git -C ~/Music/m3u-radio-music-playlists push
+git -C ~/Music/radio-music-playlist add .
+git -C ~/Music/radio-music-playlist commit -m "updating"
+git -C ~/Music/radio-music-playlist push
 ```
 you will need a personal access token for repeat pushes to your repo from the terminal, look [here](https://docs.github.com/en/get-started/getting-started-with-git/why-is-git-always-asking-for-my-password) for more information about it 
 
@@ -170,9 +170,9 @@ cat ~/Music/bare_m3u/---everything-full.m3u | sed -n '/^#/!p' > ~/Music/bare_m3u
 cat ~/Music/bare_m3u/---everything-lite.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
 cat ~/Music/bare_m3u/---everything-lite.m3u | sort | awk 'length>10' > ~/Music/bare_m3u/---sorted.m3u
 mv ~/Music/bare_m3u/*.m3u ~/Music/m3u-radio-music-playlists
-git -C ~/Music/m3u-radio-music-playlists add .
-git -C ~/Music/m3u-radio-music-playlists commit -m "`date +'%Y/%b/%d - %I:%M:%S %p'`"
-git -C ~/Music/m3u-radio-music-playlists push
+git -C ~/Music/radio-music-playlist add .
+git -C ~/Music/radio-music-playlist commit -m "`date +'%Y/%b/%d - %I:%M:%S %p'`"
+git -C ~/Music/radio-music-playlist push
 ```
 
 </details>
