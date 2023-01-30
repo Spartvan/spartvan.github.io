@@ -22,8 +22,8 @@ http://maximum.hostingradio.ru/maximum96.aacp
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1556387358.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Nostalgiya FM - Nostalgia FM - 128 kbit/s
 http://93.189.147.117:8000/nostalgiafm.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1443541015.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Retro vecherinka
-http://hls-01-retro.emgsound.ru/retro-vecherinka/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1443541015.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Mayak
+https://media.strm.yandex.net/fm/fm_mayak/fm_mayak0_a1.m3u8
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1443541015.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Radio Shanson Irkutsk 105,6 FM - 320 kbit/s
 http://live.nts-tv.ru:8000/Shanson
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1380753029.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Hity Rossii - Riga 96.2 FM - 320 kbit/s
