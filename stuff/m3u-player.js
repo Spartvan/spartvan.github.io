@@ -215,8 +215,8 @@ if (isBlob(oldUrl)) {
 URL.revokeObjectURL(oldUrl);
 }
 // update title
-mediaTag.parentElement.querySelector(".m3u-player--title").title = trackUrl;
-mediaTag.parentElement.querySelector(".m3u-player--title").textContent = trackUrl;
+mediaTag.parentElement.querySelector(".m3u-player--title").title = trackName;
+mediaTag.parentElement.querySelector(".m3u-player--title").textContent = trackName;
 // start prefetching the next three tracks.
 for (const i of [1, 2, 3]) {
 if (playlist.length > Number(trackIndex) + i) {
