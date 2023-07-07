@@ -1,0 +1,197 @@
+#EXTM3U source:http://www.radiorecord.ru/stations?style=ALL
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",Record-FM каналов 97 ShadowRazer from http://iptvin.ru
+http://sh3304149.c.had.su/iptvin.ru.mp4
+#EXTINF:-1,Record
+http://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
+#EXTINF:-1,2-step
+http://hls-01-radiorecord.hostingradio.ru/record-2step/playlist.m3u8
+#EXTINF:-1,10's Dance
+http://hls-01-radiorecord.hostingradio.ru/record-2010/playlist.m3u8
+#EXTINF:-1,60's Dance
+http://hls-01-radiorecord.hostingradio.ru/record-cadillac/playlist.m3u8
+#EXTINF:-1,70's Dance
+http://hls-01-radiorecord.hostingradio.ru/record-1970/playlist.m3u8
+#EXTINF:-1,Ambient
+http://hls-01-radiorecord.hostingradio.ru/record-ambient/playlist.m3u8
+#EXTINF:-1,Armin van Buuren
+http://hls-01-radiorecord.hostingradio.ru/record-armin/playlist.m3u8
+#EXTINF:-1,Bass House
+http://hls-01-radiorecord.hostingradio.ru/record-jackin/playlist.m3u8
+#EXTINF:-1,Big Hits
+http://hls-01-radiorecord.hostingradio.ru/record-bighits/playlist.m3u8
+#EXTINF:-1,Black Rap
+http://hls-01-radiorecord.hostingradio.ru/record-yo/playlist.m3u8
+#EXTINF:-1,Breaks
+http://hls-01-radiorecord.hostingradio.ru/record-brks/playlist.m3u8
+#EXTINF:-1,Chill House
+http://hls-01-radiorecord.hostingradio.ru/record-chillhouse/playlist.m3u8
+#EXTINF:-1,Chill-Out
+http://hls-01-radiorecord.hostingradio.ru/record-chil/playlist.m3u8
+#EXTINF:-1,Christmas
+http://hls-01-radiorecord.hostingradio.ru/record-christmas/playlist.m3u8
+#EXTINF:-1,Christmas Chill
+http://hls-01-radiorecord.hostingradio.ru/record-christmaschill/playlist.m3u8
+#EXTINF:-1,Complextro
+http://hls-01-radiorecord.hostingradio.ru/record-complextro/playlist.m3u8
+#EXTINF:-1,D'n'B Classics
+http://hls-01-radiorecord.hostingradio.ru/record-drumhits/playlist.m3u8
+#EXTINF:-1,Dancecore
+http://hls-01-radiorecord.hostingradio.ru/record-dc/playlist.m3u8
+#EXTINF:-1,Darkside
+http://hls-01-radiorecord.hostingradio.ru/record-darkside/playlist.m3u8
+#EXTINF:-1,David Guetta
+http://hls-01-radiorecord.hostingradio.ru/record-guetta/playlist.m3u8
+#EXTINF:-1,Deep
+http://hls-01-radiorecord.hostingradio.ru/record-deep/playlist.m3u8
+#EXTINF:-1,Disco/Funk
+http://hls-01-radiorecord.hostingradio.ru/record-discofunk/playlist.m3u8
+#EXTINF:-1,Dream Dance
+http://hls-01-radiorecord.hostingradio.ru/record-dream/playlist.m3u8
+#EXTINF:-1,Dream Pop
+http://hls-01-radiorecord.hostingradio.ru/record-dreampop/playlist.m3u8
+#EXTINF:-1,Dubstep
+http://hls-01-radiorecord.hostingradio.ru/record-dub/playlist.m3u8
+#EXTINF:-1,EDM
+http://hls-01-radiorecord.hostingradio.ru/record-club/playlist.m3u8
+#EXTINF:-1,EDM Classics
+http://hls-01-radiorecord.hostingradio.ru/record-edmhits/playlist.m3u8
+#EXTINF:-1,Electro
+http://hls-01-radiorecord.hostingradio.ru/record-elect/playlist.m3u8
+#EXTINF:-1,Eurodance
+http://hls-01-radiorecord.hostingradio.ru/record-eurodance/playlist.m3u8
+#EXTINF:-1,Future Bass
+http://hls-01-radiorecord.hostingradio.ru/record-fbass/playlist.m3u8
+#EXTINF:-1,Future House
+http://hls-01-radiorecord.hostingradio.ru/record-fut/playlist.m3u8
+#EXTINF:-1,Future Rave
+http://hls-01-radiorecord.hostingradio.ru/record-futurerave/playlist.m3u8
+#EXTINF:-1,GOA/PSY
+http://hls-01-radiorecord.hostingradio.ru/record-goa/playlist.m3u8
+#EXTINF:-1,Groove/Tribal
+http://hls-01-radiorecord.hostingradio.ru/record-groovetribal/playlist.m3u8
+#EXTINF:-1,Hard Bass
+http://hls-01-radiorecord.hostingradio.ru/record-hbass/playlist.m3u8
+#EXTINF:-1,Hardstyle
+http://hls-01-radiorecord.hostingradio.ru/record-teo/playlist.m3u8
+#EXTINF:-1,House Classics
+http://hls-01-radiorecord.hostingradio.ru/record-houseclss/playlist.m3u8
+#EXTINF:-1,House Hits
+http://hls-01-radiorecord.hostingradio.ru/record-househits/playlist.m3u8
+#EXTINF:-1,Hypnotic
+http://hls-01-radiorecord.hostingradio.ru/record-hypno/playlist.m3u8
+#EXTINF:-1,Innocence
+http://hls-01-radiorecord.hostingradio.ru/record-ibiza/playlist.m3u8
+#EXTINF:-1,Jungle
+http://hls-01-radiorecord.hostingradio.ru/record-jungle/playlist.m3u8
+#EXTINF:-1,Latina Dance
+http://hls-01-radiorecord.hostingradio.ru/record-latina/playlist.m3u8
+#EXTINF:-1,Liquid Funk
+http://hls-01-radiorecord.hostingradio.ru/record-liquidfunk/playlist.m3u8
+#EXTINF:-1,Live DJ-sets
+http://hls-01-radiorecord.hostingradio.ru/record-livedjsets/playlist.m3u8
+#EXTINF:-1,Lo-Fi
+http://hls-01-radiorecord.hostingradio.ru/record-lofi/playlist.m3u8
+#EXTINF:-1,Megamix
+http://hls-01-radiorecord.hostingradio.ru/record-mix/playlist.m3u8
+#EXTINF:-1,Midtempo
+http://hls-01-radiorecord.hostingradio.ru/record-mt/playlist.m3u8
+#EXTINF:-1,Minimal/Tech
+http://hls-01-radiorecord.hostingradio.ru/record-mini/playlist.m3u8
+#EXTINF:-1,Moombahton
+http://hls-01-radiorecord.hostingradio.ru/record-mmbt/playlist.m3u8
+#EXTINF:-1,Neurofunk
+http://hls-01-radiorecord.hostingradio.ru/record-neurofunk/playlist.m3u8
+#EXTINF:-1,Old School
+http://hls-01-radiorecord.hostingradio.ru/record-pump/playlist.m3u8
+#EXTINF:-1,Organic
+http://hls-01-radiorecord.hostingradio.ru/record-organic/playlist.m3u8
+#EXTINF:-1,Party 24/7
+http://hls-01-radiorecord.hostingradio.ru/record-party/playlist.m3u8
+#EXTINF:-1,Phonk
+http://hls-01-radiorecord.hostingradio.ru/record-phonk/playlist.m3u8
+#EXTINF:-1,Pirate Station
+http://hls-01-radiorecord.hostingradio.ru/record-ps/playlist.m3u8
+#EXTINF:-1,Progressive
+http://hls-01-radiorecord.hostingradio.ru/record-progr/playlist.m3u8
+#EXTINF:-1,Rap Classics
+http://hls-01-radiorecord.hostingradio.ru/record-rapclassics/playlist.m3u8
+#EXTINF:-1,Rap Hits
+http://hls-01-radiorecord.hostingradio.ru/record-rap/playlist.m3u8
+#EXTINF:-1,Rave FM
+http://hls-01-radiorecord.hostingradio.ru/record-rave/playlist.m3u8
+#EXTINF:-1,Record 80-х
+http://hls-01-radiorecord.hostingradio.ru/record-1980/playlist.m3u8
+#EXTINF:-1,Record Gold
+http://hls-01-radiorecord.hostingradio.ru/record-gold/playlist.m3u8
+#EXTINF:-1,Reggae
+http://hls-01-radiorecord.hostingradio.ru/record-reggae/playlist.m3u8
+#EXTINF:-1,Remix
+http://hls-01-radiorecord.hostingradio.ru/record-rmx/playlist.m3u8
+#EXTINF:-1,Rock
+http://hls-01-radiorecord.hostingradio.ru/record-rock/playlist.m3u8
+#EXTINF:-1,Russian Gold
+http://hls-01-radiorecord.hostingradio.ru/record-russiangold/playlist.m3u8
+#EXTINF:-1,Russian Hits
+http://hls-01-radiorecord.hostingradio.ru/record-russianhits/playlist.m3u8
+#EXTINF:-1,Russian Mix
+http://hls-01-radiorecord.hostingradio.ru/record-rus/playlist.m3u8
+#EXTINF:-1,Summer Dance
+http://hls-01-radiorecord.hostingradio.ru/record-summerparty/playlist.m3u8
+#EXTINF:-1,Summer Lounge
+http://hls-01-radiorecord.hostingradio.ru/record-summerlounge/playlist.m3u8
+#EXTINF:-1,Synthwave
+http://hls-01-radiorecord.hostingradio.ru/record-synth/playlist.m3u8
+#EXTINF:-1,Tech House
+http://hls-01-radiorecord.hostingradio.ru/record-techouse/playlist.m3u8
+#EXTINF:-1,Techno
+http://hls-01-radiorecord.hostingradio.ru/record-techno/playlist.m3u8
+#EXTINF:-1,Technopop
+http://hls-01-radiorecord.hostingradio.ru/record-technopop/playlist.m3u8
+#EXTINF:-1,Tecktonik
+http://hls-01-radiorecord.hostingradio.ru/record-tecktonik/playlist.m3u8
+#EXTINF:-1,Tiesto
+http://hls-01-radiorecord.hostingradio.ru/record-tiesto/playlist.m3u8
+#EXTINF:-1,TOP 100 EDM
+http://hls-01-radiorecord.hostingradio.ru/record-top100edm/playlist.m3u8
+#EXTINF:-1,Trance Classics
+http://hls-01-radiorecord.hostingradio.ru/record-trancehits/playlist.m3u8
+#EXTINF:-1,Trancehouse
+http://hls-01-radiorecord.hostingradio.ru/record-trancehouse/playlist.m3u8
+#EXTINF:-1,Trancemission
+http://hls-01-radiorecord.hostingradio.ru/record-tm/playlist.m3u8
+#EXTINF:-1,Trap
+http://hls-01-radiorecord.hostingradio.ru/record-trap/playlist.m3u8
+#EXTINF:-1,Tropical
+http://hls-01-radiorecord.hostingradio.ru/record-trop/playlist.m3u8
+#EXTINF:-1,UK Garage
+http://hls-01-radiorecord.hostingradio.ru/record-ukgarage/playlist.m3u8
+#EXTINF:-1,Uplifting
+http://hls-01-radiorecord.hostingradio.ru/record-uplift/playlist.m3u8
+#EXTINF:-1,VIP House
+http://hls-01-radiorecord.hostingradio.ru/record-vip/playlist.m3u8
+#EXTINF:-1,Workout
+http://hls-01-radiorecord.hostingradio.ru/record-workout/playlist.m3u8
+#EXTINF:-1,Веснушка FM
+http://hls-01-radiorecord.hostingradio.ru/record-deti/playlist.m3u8
+#EXTINF:-1,Гастарбайтер FM
+http://hls-01-radiorecord.hostingradio.ru/record-gast/playlist.m3u8
+#EXTINF:-1,Гоп FM
+http://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8
+#EXTINF:-1,Маятник Фуко
+http://hls-01-radiorecord.hostingradio.ru/record-mf/playlist.m3u8
+#EXTINF:-1,Медляк FM
+http://hls-01-radiorecord.hostingradio.ru/record-mdl/playlist.m3u8
+#EXTINF:-1,На Хайпе
+http://hls-01-radiorecord.hostingradio.ru/record-hype/playlist.m3u8
+#EXTINF:-1,Нафталин FM
+http://hls-01-radiorecord.hostingradio.ru/record-naft/playlist.m3u8
+#EXTINF:-1,Рекорд 00-х
+http://hls-01-radiorecord.hostingradio.ru/record-2000/playlist.m3u8
+#EXTINF:-1,Руки Вверх!
+http://hls-01-radiorecord.hostingradio.ru/record-rv/playlist.m3u8
+#EXTINF:-1,Русская Зима
+http://hls-01-radiorecord.hostingradio.ru/record-ruszima/playlist.m3u8
+#EXTINF:-1,Симфония FM
+http://hls-01-radiorecord.hostingradio.ru/record-symph/playlist.m3u8
+#EXTINF:-1,Супердискотека 90-х
+http://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8
