@@ -1,6 +1,4 @@
-#EXTM3U source:http://www.radiorecord.ru/stations?style=ALL
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",Record-FM каналов 97 ShadowRazer from http://iptvin.ru
-http://sh3304149.c.had.su/iptvin.ru.mp4
+#EXTM3U
 #EXTINF:-1,Record
 http://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
 #EXTINF:-1,2-step
