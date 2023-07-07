@@ -11,7 +11,7 @@ i've also added a simple audio visualizer to the stream pages, code was taken fr
 | [russian](https://spartvan.github.io/radio-music-playlist/stuff/russian.html) |
 |---|
 | [russian1](https://spartvan.github.io/radio-music-playlist/stuff/russian1.html) | 
-| [russian2](https://spartvan.github.io/radio-music-playlist/stuff/russian2.html) | 
+| [russian2](https://spartvan.github.io/radio-music-playlist/stuff/rr.html) | 
 | [90s](https://spartvan.github.io/radio-music-playlist/stuff/90s.html) ||
 
 <br>
