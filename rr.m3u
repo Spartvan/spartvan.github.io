@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,1
+http://listen.rusongs.ru/ru-mp3-128
 #EXTINF:-1,Record
 http://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
 #EXTINF:-1,2-step
