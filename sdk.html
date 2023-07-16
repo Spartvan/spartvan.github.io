@@ -3,6 +3,39 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+* {
+box-sizing: border-box;
+}
+div {
+overflow: auto;
+height: 96vh;
+border: #ccc 2px solid;
+padding: 10px;
+}
+body {
+background: #222;
+padding: 0vh 25%;
+}
+#myUL li a {
+border: 1px solid #ddd;
+margin-top: -1px;
+background-color: #333;
+padding: 12px;
+text-decoration: none;
+font-size: 18px;
+color: #ccc;
+display: block;
+}
+#myUL li a:hover {
+font-size: 24px;
+}
+</style>
+</head>
+<body>
+<div>
+<ul id="myUL">
+<li><a href="https://raw.githubusercontent.com/spartvan/radio-music-playlist/dh-pages/90s.m3u">90s.m3u</a></li>
+<li><a href="https://raw.githubusercontent.com/spartvan/radio-music-playlist/dh-pages/russian.m3u">russian.m3u</a></li>
 <li><a href="https://raw.githubusercontent.com/spartvan/radio-music-playlist/dh-pages/rr.m3u">rr.m3u</a></li>
 </ul>
 </div>
@@ -25,4 +58,4 @@ li[i].style.display = "none";
 }
 </script>
 </body>
-  </html>
+</html>
