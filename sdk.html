@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+<li><a href="https://raw.githubusercontent.com/spartvan/radio-music-playlist/dh-pages/rr.m3u">rr.m3u</a></li>
+</ul>
+</div>
+<script>
+function myFunction() {
+var input, filter, ul, li, a, i, txtValue;
+input = document.getElementById("myInput");
+filter = input.value.toUpperCase();
+ul = document.getElementById("myUL");
+li = ul.getElementsByTagName("li");
+for (i = 0; i < li.length; i++) {
+a = li[i].getElementsByTagName("a")[0];
+txtValue = a.textContent || a.innerText;
+if (txtValue.toUpperCase().indexOf(filter) > -1) {
+li[i].style.display = "";
+} else {
+li[i].style.display = "none";
+}
+}
+}
+</script>
+</body>
+  </html>
